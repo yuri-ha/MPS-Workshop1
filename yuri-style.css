@@ -1,0 +1,145 @@
+/* FIRST ITERATION */
+
+body.yuri-1 {
+  background: #e803fc;
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 100px ;
+  text-align: center;
+}
+body.yuri-1 .one {
+  font-family: ;
+  font-size: 60pt;
+  font-weight: 500;
+  text-decoration: bold;
+  text-align: left;
+  padding: ;
+  color: #ffffff;
+  opacity: ;
+}
+
+body.yuri-1 .two {
+  font-family: 'futura';
+  font-size: 60pt ;
+  font-weight: 300;
+  text-decoration: ;
+  text-align: center;
+  padding: ;
+  color: #03fcdf;
+  opacity: 80%;
+}
+body.yuri-1 .three{
+  font-family: 'futura';
+  font-size: 20pt;
+  font-weight: 200;
+  text-decoration: underline;
+  text-align: center;
+  padding: ;
+  color: #03fcdf;
+  opacity: ;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.yuri-2 {
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+  margin: 0px 10px 0px 10px;
+
+}
+body.yuri-2 .one {
+  font-family: 'Do Hyeon', sans-serif ;
+  font-size: 80pt;
+  line-height:100pt;
+  font-weight: 200;
+  text-decoration: ;
+  text-align: left;
+  padding-bottom: 10px;
+  color: #000000;
+  opacity: ;
+  text-shadow: 6px 3px 3px #eeff00;
+  max-height:200px;
+}
+body.yuri-2 .two {
+  font-family: 'turret road';
+  font-size: 20px;
+  font-weight: ;
+  text-decoration:;
+  text-align: left;
+  padding-left: 40px ;
+  color: ;
+  opacity: ;
+  text-transform: uppercase;
+}
+body.yuri-2 .three{
+  font-family: 'turret road';
+  font-size: 60pt;
+  font-weight: ;
+  text-decoration: ;
+  text-align: right ;
+  padding: ;
+  color: #7f3bff;
+  opacity: ;
+  font-style: italic;
+  transform: rotate(20deg);
+}
+
+
+/* THIRD ITERATION */
+
+
+body.yuri-3 {
+  font-family: 'Gugi', cursive;
+  font-size: ;
+  font-weight: 200;
+  text-decoration: ;
+  text-align: center;
+  padding-top: 40px;
+  color: ;
+  opacity: 0.7;
+  transform: rotate(45deg);
+}
+
+body.yuri-3 .one {
+  font-family: ;
+  font-size: 30pt;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+;
+}
+
+body.yuri-3 .two {
+  font-family: helvetica;
+  font-size: 30pt;
+  font-weight: ;
+  text-decoration: line-through;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+  outline-width:1px;
+
+}
+
+body.yuri-3 .three{
+  font-family: helvetica;
+  font-size: 30pt;
+  font-weight: bold;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: #a600ff;
+  opacity: ;
+  outline-color: #7f3bff;
+}
